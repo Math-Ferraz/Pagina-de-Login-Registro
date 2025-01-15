@@ -17,6 +17,7 @@ Funcionalidades:
 Tecnologias Utilizadas:
 
 HTML5: Para a estrutura da página.
+
 CSS3: Para o design e responsividade.
 
 
@@ -25,18 +26,18 @@ CSS3: Para o design e responsividade.
 
 Clone este repositório para sua máquina local:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+:arrow_right: git clone https://github.com/seu-usuario/seu-repositorio.git
 
 Navegue até o diretório do projeto:
 
-cd projeto-login
+:arrow_right: cd projeto-login
 
 Abra o arquivo index.html no seu navegador:
 
 Clique duas vezes no arquivo, ou
 Execute:
 
-open index.html
+:arrow_right: open index.html
 
 Personalização:
 
