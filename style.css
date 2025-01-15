@@ -117,7 +117,15 @@ button {
     border-radius: 3px;
     font-size: 16px;
     border: 2px solid transparent;
-    transition: 0,3s ease;
+    transition: 0,3s all ease-in-out 0s;
+}
+
+button:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border-radius: 25px;
 }
 
 .Cadastro {
